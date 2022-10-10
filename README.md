@@ -7,7 +7,7 @@ You can select blocks with pressing 1 - 2 - 3.
 You can place or remove blocks with pressing left click.
 You can switch between adding or removing blocks with pressing q.
 
-Please contact with me if you made a gem with this game engine or contact me to get details of the engine.
+Please contact with me if you made a game with this game engine or contact me to get details of the engine.
 For contact: ruzgarercen@gmail.com
 
 
